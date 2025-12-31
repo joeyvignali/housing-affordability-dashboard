@@ -1,0 +1,562 @@
+state,year,avg_home_price
+Alabama,2015,135525
+Alabama,2016,140408
+Alabama,2017,144480
+Alabama,2018,150240
+Alabama,2019,158587
+Alabama,2020,171352
+Alabama,2021,194851
+Alabama,2022,219250
+Alabama,2023,224998
+Alabama,2024,229016
+Alabama,2025,231181
+Alaska,2015,270748
+Alaska,2016,277431
+Alaska,2017,279652
+Alaska,2018,283827
+Alaska,2019,301062
+Alaska,2020,312034
+Alaska,2021,328162
+Alaska,2022,350551
+Alaska,2023,353905
+Alaska,2024,359501
+Alaska,2025,368893
+Arizona,2015,201866
+Arizona,2016,218705
+Arizona,2017,233602
+Arizona,2018,251445
+Arizona,2019,268578
+Arizona,2020,294752
+Arizona,2021,364517
+Arizona,2022,440234
+Arizona,2023,421902
+Arizona,2024,431879
+Arizona,2025,422798
+Arkansas,2015,129304
+Arkansas,2016,135529
+Arkansas,2017,140035
+Arkansas,2018,145283
+Arkansas,2019,150993
+Arkansas,2020,160126
+Arkansas,2021,180726
+Arkansas,2022,201888
+Arkansas,2023,206863
+Arkansas,2024,213330
+Arkansas,2025,216814
+California,2015,408952
+California,2016,436309
+California,2017,472220
+California,2018,517268
+California,2019,532165
+California,2020,558362
+California,2021,645600
+California,2022,733067
+California,2023,723586
+California,2024,761153
+California,2025,760038
+Colorado,2015,283590
+Colorado,2016,316013
+Colorado,2017,344897
+Colorado,2018,370655
+Colorado,2019,388505
+Colorado,2020,410247
+Colorado,2021,473941
+Colorado,2022,544690
+Colorado,2023,534440
+Colorado,2024,540826
+Colorado,2025,534806
+Connecticut,2015,236705
+Connecticut,2016,239571
+Connecticut,2017,245259
+Connecticut,2018,250938
+Connecticut,2019,254157
+Connecticut,2020,265565
+Connecticut,2021,305223
+Connecticut,2022,340054
+Connecticut,2023,365199
+Connecticut,2024,399405
+Connecticut,2025,416183
+Delaware,2015,236840
+Delaware,2016,247705
+Delaware,2017,257962
+Delaware,2018,264922
+Delaware,2019,272356
+Delaware,2020,282190
+Delaware,2021,323831
+Delaware,2022,360950
+Delaware,2023,375211
+Delaware,2024,387883
+Delaware,2025,396148
+District of Columbia,2015,475437
+District of Columbia,2016,500534
+District of Columbia,2017,521369
+District of Columbia,2018,548965
+District of Columbia,2019,564397
+District of Columbia,2020,588334
+District of Columbia,2021,622600
+District of Columbia,2022,634481
+District of Columbia,2023,611063
+District of Columbia,2024,599051
+District of Columbia,2025,580227
+Florida,2015,180821
+Florida,2016,197980
+Florida,2017,213993
+Florida,2018,230295
+Florida,2019,242303
+Florida,2020,256632
+Florida,2021,298972
+Florida,2022,373588
+Florida,2023,390080
+Florida,2024,396506
+Florida,2025,381365
+Georgia,2015,154886
+Georgia,2016,165137
+Georgia,2017,175756
+Georgia,2018,190942
+Georgia,2019,205012
+Georgia,2020,220109
+Georgia,2021,260067
+Georgia,2022,313205
+Georgia,2023,323015
+Georgia,2024,334201
+Georgia,2025,330554
+Hawaii,2015,504416
+Hawaii,2016,533760
+Hawaii,2017,564578
+Hawaii,2018,592890
+Hawaii,2019,603602
+Hawaii,2020,619851
+Hawaii,2021,693759
+Hawaii,2022,817938
+Hawaii,2023,821038
+Hawaii,2024,835063
+Hawaii,2025,823498
+Idaho,2015,186515
+Idaho,2016,202104
+Idaho,2017,220430
+Idaho,2018,245881
+Idaho,2019,274927
+Idaho,2020,312471
+Idaho,2021,416482
+Idaho,2022,475901
+Idaho,2023,446578
+Idaho,2024,454535
+Idaho,2025,460373
+Illinois,2015,163093
+Illinois,2016,171147
+Illinois,2017,179061
+Illinois,2018,187019
+Illinois,2019,192027
+Illinois,2020,198629
+Illinois,2021,219388
+Illinois,2022,240076
+Illinois,2023,247308
+Illinois,2024,262589
+Illinois,2025,273277
+Indiana,2015,122136
+Indiana,2016,127985
+Indiana,2017,135253
+Indiana,2018,144941
+Indiana,2019,154934
+Indiana,2020,166800
+Indiana,2021,191885
+Indiana,2022,217683
+Indiana,2023,226804
+Indiana,2024,237666
+Indiana,2025,246071
+Iowa,2015,133534
+Iowa,2016,139953
+Iowa,2017,144435
+Iowa,2018,150418
+Iowa,2019,157927
+Iowa,2020,165512
+Iowa,2021,180970
+Iowa,2022,200187
+Iowa,2023,207824
+Iowa,2024,215831
+Iowa,2025,223635
+Kansas,2015,126557
+Kansas,2016,132104
+Kansas,2017,137007
+Kansas,2018,143717
+Kansas,2019,150762
+Kansas,2020,162213
+Kansas,2021,182234
+Kansas,2022,204766
+Kansas,2023,215403
+Kansas,2024,226274
+Kansas,2025,234229
+Kentucky,2015,118616
+Kentucky,2016,124442
+Kentucky,2017,130878
+Kentucky,2018,138689
+Kentucky,2019,146524
+Kentucky,2020,157311
+Kentucky,2021,177834
+Kentucky,2022,197197
+Kentucky,2023,206512
+Kentucky,2024,215940
+Kentucky,2025,227259
+Louisiana,2015,174345
+Louisiana,2016,180339
+Louisiana,2017,179508
+Louisiana,2018,182061
+Louisiana,2019,188052
+Louisiana,2020,197291
+Louisiana,2021,207414
+Louisiana,2022,218752
+Louisiana,2023,214013
+Louisiana,2024,209321
+Louisiana,2025,208421
+Maine,2015,185466
+Maine,2016,195063
+Maine,2017,207979
+Maine,2018,221781
+Maine,2019,232639
+Maine,2020,253594
+Maine,2021,306245
+Maine,2022,352340
+Maine,2023,373637
+Maine,2024,395805
+Maine,2025,400830
+Maryland,2015,272397
+Maryland,2016,280333
+Maryland,2017,290434
+Maryland,2018,300666
+Maryland,2019,311069
+Maryland,2020,325781
+Maryland,2021,364079
+Maryland,2022,391435
+Maryland,2023,400553
+Maryland,2024,413743
+Maryland,2025,421910
+Massachusetts,2015,340095
+Massachusetts,2016,361795
+Massachusetts,2017,385902
+Massachusetts,2018,410058
+Massachusetts,2019,421594
+Massachusetts,2020,443206
+Massachusetts,2021,504681
+Massachusetts,2022,556734
+Massachusetts,2023,578308
+Massachusetts,2024,619878
+Massachusetts,2025,635351
+Michigan,2015,125659
+Michigan,2016,134676
+Michigan,2017,144816
+Michigan,2018,156078
+Michigan,2019,165881
+Michigan,2020,176545
+Michigan,2021,202532
+Michigan,2022,223274
+Michigan,2023,228977
+Michigan,2024,240448
+Michigan,2025,248303
+Minnesota,2015,192388
+Minnesota,2016,205209
+Minnesota,2017,219500
+Minnesota,2018,234372
+Minnesota,2019,246682
+Minnesota,2020,260631
+Minnesota,2021,292434
+Minnesota,2022,318312
+Minnesota,2023,320705
+Minnesota,2024,326650
+Minnesota,2025,334091
+Mississippi,2015,127761
+Mississippi,2016,133358
+Mississippi,2017,135272
+Mississippi,2018,138486
+Mississippi,2019,143401
+Mississippi,2020,150376
+Mississippi,2021,167806
+Mississippi,2022,184702
+Mississippi,2023,183496
+Mississippi,2024,186260
+Mississippi,2025,189417
+Missouri,2015,133998
+Missouri,2016,141365
+Missouri,2017,149142
+Missouri,2018,157558
+Missouri,2019,165468
+Missouri,2020,176628
+Missouri,2021,202720
+Missouri,2022,228675
+Missouri,2023,237577
+Missouri,2024,247051
+Missouri,2025,253684
+Montana,2015,212560
+Montana,2016,224141
+Montana,2017,234678
+Montana,2018,248809
+Montana,2019,262121
+Montana,2020,283492
+Montana,2021,353154
+Montana,2022,426862
+Montana,2023,428427
+Montana,2024,444965
+Montana,2025,453345
+Nebraska,2015,140932
+Nebraska,2016,149083
+Nebraska,2017,157252
+Nebraska,2018,167104
+Nebraska,2019,176373
+Nebraska,2020,188247
+Nebraska,2021,212495
+Nebraska,2022,236022
+Nebraska,2023,248066
+Nebraska,2024,257712
+Nebraska,2025,264990
+Nevada,2015,208717
+Nevada,2016,225934
+Nevada,2017,247083
+Nevada,2018,281658
+Nevada,2019,301796
+Nevada,2020,313382
+Nevada,2021,364438
+Nevada,2022,437285
+Nevada,2023,419038
+Nevada,2024,438728
+Nevada,2025,446120
+New Hampshire,2015,224935
+New Hampshire,2016,235668
+New Hampshire,2017,250461
+New Hampshire,2018,267387
+New Hampshire,2019,279447
+New Hampshire,2020,300889
+New Hampshire,2021,357202
+New Hampshire,2022,410480
+New Hampshire,2023,437406
+New Hampshire,2024,470364
+New Hampshire,2025,487135
+New Jersey,2015,298451
+New Jersey,2016,308137
+New Jersey,2017,317976
+New Jersey,2018,331623
+New Jersey,2019,344715
+New Jersey,2020,363862
+New Jersey,2021,413215
+New Jersey,2022,456320
+New Jersey,2023,482905
+New Jersey,2024,525124
+New Jersey,2025,548935
+New Mexico,2015,169202
+New Mexico,2016,173422
+New Mexico,2017,178067
+New Mexico,2018,184913
+New Mexico,2019,194893
+New Mexico,2020,210259
+New Mexico,2021,242857
+New Mexico,2022,277501
+New Mexico,2023,289780
+New Mexico,2024,302408
+New Mexico,2025,308841
+New York,2015,276136
+New York,2016,288605
+New York,2017,304938
+New York,2018,324423
+New York,2019,341579
+New York,2020,358377
+New York,2021,397245
+New York,2022,433003
+New York,2023,442051
+New York,2024,471129
+New York,2025,493035
+North Carolina,2015,161665
+North Carolina,2016,170220
+North Carolina,2017,180381
+North Carolina,2018,192577
+North Carolina,2019,204389
+North Carolina,2020,220051
+North Carolina,2021,259118
+North Carolina,2022,307556
+North Carolina,2023,319128
+North Carolina,2024,330319
+North Carolina,2025,330677
+North Dakota,2015,221026
+North Dakota,2016,225699
+North Dakota,2017,222137
+North Dakota,2018,218215
+North Dakota,2019,220468
+North Dakota,2020,227462
+North Dakota,2021,238187
+North Dakota,2022,255061
+North Dakota,2023,257662
+North Dakota,2024,260932
+North Dakota,2025,272153
+Ohio,2015,120530
+Ohio,2016,126671
+Ohio,2017,132867
+Ohio,2018,141187
+Ohio,2019,149885
+Ohio,2020,160573
+Ohio,2021,183229
+Ohio,2022,202556
+Ohio,2023,211707
+Ohio,2024,224743
+Ohio,2025,233897
+Oklahoma,2015,122646
+Oklahoma,2016,126240
+Oklahoma,2017,129685
+Oklahoma,2018,134416
+Oklahoma,2019,140099
+Oklahoma,2020,150275
+Oklahoma,2021,170691
+Oklahoma,2022,194160
+Oklahoma,2023,202821
+Oklahoma,2024,209870
+Oklahoma,2025,214387
+Oregon,2015,258453
+Oregon,2016,291132
+Oregon,2017,319223
+Oregon,2018,341354
+Oregon,2019,354689
+Oregon,2020,376382
+Oregon,2021,440840
+Oregon,2022,492733
+Oregon,2023,483673
+Oregon,2024,490241
+Oregon,2025,491540
+Pennsylvania,2015,160049
+Pennsylvania,2016,165021
+Pennsylvania,2017,171120
+Pennsylvania,2018,179350
+Pennsylvania,2019,186923
+Pennsylvania,2020,199473
+Pennsylvania,2021,225223
+Pennsylvania,2022,246030
+Pennsylvania,2023,254518
+Pennsylvania,2024,266307
+Pennsylvania,2025,274820
+Rhode Island,2015,230213
+Rhode Island,2016,244496
+Rhode Island,2017,262368
+Rhode Island,2018,280578
+Rhode Island,2019,290655
+Rhode Island,2020,309737
+Rhode Island,2021,359771
+Rhode Island,2022,403238
+Rhode Island,2023,424542
+Rhode Island,2024,457740
+Rhode Island,2025,477722
+South Carolina,2015,155072
+South Carolina,2016,164027
+South Carolina,2017,171891
+South Carolina,2018,181909
+South Carolina,2019,191434
+South Carolina,2020,204528
+South Carolina,2021,235420
+South Carolina,2022,278160
+South Carolina,2023,290480
+South Carolina,2024,299753
+South Carolina,2025,300304
+South Dakota,2015,170040
+South Dakota,2016,178162
+South Dakota,2017,185711
+South Dakota,2018,194519
+South Dakota,2019,204175
+South Dakota,2020,216977
+South Dakota,2021,246891
+South Dakota,2022,285144
+South Dakota,2023,293435
+South Dakota,2024,300218
+South Dakota,2025,307604
+Tennessee,2015,152900
+Tennessee,2016,163707
+Tennessee,2017,176084
+Tennessee,2018,188969
+Tennessee,2019,202195
+Tennessee,2020,219356
+Tennessee,2021,255592
+Tennessee,2022,304434
+Tennessee,2023,314321
+Tennessee,2024,325708
+Tennessee,2025,327586
+Texas,2015,166468
+Texas,2016,179233
+Texas,2017,190999
+Texas,2018,202896
+Texas,2019,212137
+Texas,2020,223444
+Texas,2021,256131
+Texas,2022,301778
+Texas,2023,304078
+Texas,2024,304538
+Texas,2025,299361
+Utah,2015,236921
+Utah,2016,259290
+Utah,2017,281678
+Utah,2018,308195
+Utah,2019,332144
+Utah,2020,361828
+Utah,2021,444407
+Utah,2022,520623
+Utah,2023,503899
+Utah,2024,511350
+Utah,2025,520594
+Vermont,2015,228061
+Vermont,2016,231253
+Vermont,2017,241594
+Vermont,2018,252129
+Vermont,2019,258633
+Vermont,2020,273179
+Vermont,2021,315630
+Vermont,2022,357909
+Vermont,2023,376556
+Vermont,2024,388355
+Vermont,2025,383064
+Virginia,2015,237143
+Virginia,2016,244016
+Virginia,2017,252605
+Virginia,2018,261993
+Virginia,2019,271737
+Virginia,2020,287332
+Virginia,2021,323002
+Virginia,2022,355390
+Virginia,2023,369549
+Virginia,2024,388590
+Virginia,2025,398617
+Washington,2015,273588
+Washington,2016,304110
+Washington,2017,337475
+Washington,2018,372586
+Washington,2019,392012
+Washington,2020,426143
+Washington,2021,506546
+Washington,2022,576531
+Washington,2023,563097
+Washington,2024,582295
+Washington,2025,588187
+West Virginia,2015,108527
+West Virginia,2016,111418
+West Virginia,2017,112364
+West Virginia,2018,116181
+West Virginia,2019,118833
+West Virginia,2020,124091
+West Virginia,2021,140848
+West Virginia,2022,153024
+West Virginia,2023,157371
+West Virginia,2024,165577
+West Virginia,2025,171096
+Wisconsin,2015,161128
+Wisconsin,2016,169288
+Wisconsin,2017,179124
+Wisconsin,2018,190497
+Wisconsin,2019,202474
+Wisconsin,2020,216228
+Wisconsin,2021,244427
+Wisconsin,2022,268386
+Wisconsin,2023,284791
+Wisconsin,2024,299749
+Wisconsin,2025,312922
+Wyoming,2015,222229
+Wyoming,2016,229139
+Wyoming,2017,229976
+Wyoming,2018,233714
+Wyoming,2019,244236
+Wyoming,2020,259918
+Wyoming,2021,286107
+Wyoming,2022,316763
+Wyoming,2023,328531
+Wyoming,2024,339729
+Wyoming,2025,355619
